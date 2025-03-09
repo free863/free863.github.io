@@ -1,6 +1,6 @@
-title: Stack Problems
+title: 听松阁
 description: My Personal Stack Problems
-author: Agus Makmun
+author: 听松阁
 github: https://github.com/agusmakmun
 about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
 disqus_shortname: stackproblems
@@ -33,6 +33,8 @@ share:
 urls:
     - text: About Me
       url: /about/
+    - text: Category
+      url: /category/精选
     - text: My Projects
       url: /projects/
     - text: XML Feed
